@@ -2,13 +2,13 @@
 This is my first Git Repository
 <br>
 Author- Rohini Khot
-YouTube Streamer Analysis
+# YouTube Streamer Analysis
 
-Project Overview
+# Project Overview
 
 This project analyzes the top 1000 YouTube streamers based on various metrics such as ranking, categories, subscribers, country, visits, likes, and comments. The analysis provides insights into trends, performance metrics, and user interactions.
 
-Dataset
+# Dataset
 
 The dataset includes information on:
 
@@ -22,15 +22,15 @@ Country of the YouTuber
 
 Number of visits, likes, and comments
 
-Data Exploration & Preprocessing
+# Data Exploration & Preprocessing
 
 Examined dataset size, shape, data types, statistical values, missing values, and outliers.
 
 Handled missing values and detected outliers using statistical insights.
 
-Key Findings
+# Key Findings
 
-Trend Analysis
+# Trend Analysis
 
 The primary key attribute is the YouTuber's username.
 
@@ -38,29 +38,12 @@ Categories and subscribers were identified with the username.
 
 A weak positive correlation exists between the number of subscribers and the number of likes, visits, or comments, meaning these metrics do not strongly impact subscriber growth.
 
-Performance Metrics
+# Performance Metrics
 
-Metric
+Average of subscribers	Average of likes	Average of visits	Average of comments
+22415561.95965418	53473.59798270893	1210729.6829971	1558.793948126801
 
-Average Value
-
-Subscribers
-
-22,415,561.96
-
-Likes
-
-53,473.60
-
-Visits
-
-1,210,729.68
-
-Comments
-
-1,558.79
-
-Content Categories
+# Content Categories
 
 The Música y baile category has the highest number of streamers compared to other categories.
 
@@ -90,7 +73,7 @@ Indonesia
 
 38
 
-Content Recommendation Insights
+# Content Recommendation Insights
 
 Users comment on content with high audience interaction.
 
@@ -100,10 +83,10 @@ Subscriptions are primarily based on content categories.
 
 Users visit channels frequently, but likes and comments are relatively lower.
 
-Brands and Collaborations
+# Brands and Collaborations
 
 The dataset does not contain information to determine brand collaborations and marketing campaigns.
 
-Conclusion
+# Conclusion
 
 This analysis highlights key trends in YouTube streaming, providing insights into audience engagement and content performance. The study can help content creators and analysts better understand user behavior and optimize their strategies accordingly.
